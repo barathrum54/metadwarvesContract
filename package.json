@@ -1,0 +1,17 @@
+{
+  "name": "metadwarfs",
+  "version": "1.0.0",
+  "description": "metadwarfs early alpha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.6.0"
+  }
+}
